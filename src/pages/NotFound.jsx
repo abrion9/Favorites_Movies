@@ -1,9 +1,9 @@
 import React from 'react'
+import { useNavigate } from "react-router-dom";
 
-export default function 
-h1() {
+export default function () {
 
-    let navigate = userNavigate();
+  let navigate = useNavigate();
 
     const voltar = () => {
         navigate('/');

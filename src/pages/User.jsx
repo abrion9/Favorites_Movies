@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function User() {
+export function User() {
   return (
     <div>bxfbbxfbfb</div>
 
